@@ -1,0 +1,11 @@
+{
+	"name": "学務情報システムの成績を全部秀にします",
+	"manifest_version": 2,
+	"version": "1.0",
+	"content_scripts": [
+		{
+			"matches": ["https://campusweb.office.uec.ac.jp/*"],
+			"js": ["gjsys.js"]
+		}
+	]
+}
