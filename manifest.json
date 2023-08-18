@@ -1,6 +1,6 @@
 {
 	"name": "学務情報システムの成績を全部秀にします",
-	"manifest_version": 2,
+	"manifest_version": 3,
 	"version": "1.0",
 	"content_scripts": [
 		{
